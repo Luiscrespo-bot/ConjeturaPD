@@ -1,0 +1,15 @@
+# --- Core App ---
+streamlit>=1.33.0
+networkx>=3.2.1
+matplotlib>=3.8.4
+numpy>=1.26.4
+
+# --- Utilidades ---
+pillow>=10.2.0
+
+# --- Optimización y rendimiento ---
+tqdm>=4.66.2
+
+# --- Compatibilidad y seguridad ---
+requests>=2.32.0
+
